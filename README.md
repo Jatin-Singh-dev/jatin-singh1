@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jatin-singh1
+- 👋 Hi, I’m @jatin-singh
 - 👀 I’m interested in building web pages
 - 🌱 I’m currently learning html,css and c++ 
 - 💞️ I’m looking to collaborate on basic projects
